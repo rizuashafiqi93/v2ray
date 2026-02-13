@@ -16,9 +16,9 @@
     "buffer": "^6.0.3",
     "fs": "^0.0.1-security",
     "itty-router": "^3.0.12",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "typescript": "^5.0.4",
-    "wrangler": "^3.6.0"
+    "wrangler": "^4.65.0"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
